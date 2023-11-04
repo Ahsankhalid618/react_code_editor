@@ -215,7 +215,7 @@ const Landing = () => {
       />
 
       <a
-        href="https://github.com/manuarora700/react-code-editor"
+        href="https://github.com/Ahsankhalid618"
         title="Fork me on GitHub"
         class="github-corner"
         target="_blank"
@@ -243,7 +243,7 @@ const Landing = () => {
         </svg>
       </a>
 
-      <div className="h-4 w-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500"></div>
+      <div className="h-4 w-full bg-gradient-to-r from-cyan-400 via-cyan-500 to-pink-500"></div>
       <div className="flex flex-row">
         <div className="px-4 py-2">
           <LanguagesDropdown onSelectChange={onSelectChange} />

@@ -41,7 +41,7 @@ const Footer = () => {
         </a>
         Code at{" "}
         <a
-          href="https://github.com/manuarora700/react-code-editor"
+          href="https://github.com/Ahsankhalid618"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
